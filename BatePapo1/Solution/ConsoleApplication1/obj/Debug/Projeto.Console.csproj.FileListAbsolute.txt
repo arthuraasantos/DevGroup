@@ -1,0 +1,10 @@
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\App_Data\database.mdf
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\App_Data\database_log.ldf
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\Projeto.Infrastructure.dll
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\bin\Debug\Projeto.Infrastructure.pdb
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\obj\Debug\Projeto.Console.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\arthur\documents\visual studio 2015\Projects\Solution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

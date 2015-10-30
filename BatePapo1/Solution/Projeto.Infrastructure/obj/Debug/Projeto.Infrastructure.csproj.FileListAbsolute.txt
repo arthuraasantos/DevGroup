@@ -1,0 +1,5 @@
+c:\Users\Arthur\documents\visual studio 2015\Projects\Solution\Projeto.Infrastructure\obj\Debug\Projeto.Infrastructure.csprojResolveAssemblyReference.cache
+c:\Users\Arthur\documents\visual studio 2015\Projects\Solution\Projeto.Infrastructure\bin\Debug\Projeto.Infrastructure.dll
+c:\Users\Arthur\documents\visual studio 2015\Projects\Solution\Projeto.Infrastructure\bin\Debug\Projeto.Infrastructure.pdb
+c:\Users\Arthur\documents\visual studio 2015\Projects\Solution\Projeto.Infrastructure\obj\Debug\Projeto.Infrastructure.dll
+c:\Users\Arthur\documents\visual studio 2015\Projects\Solution\Projeto.Infrastructure\obj\Debug\Projeto.Infrastructure.pdb
