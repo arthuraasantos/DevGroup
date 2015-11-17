@@ -1,0 +1,10 @@
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\ProjetoWebAPI.DAL.dll.config
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\ProjetoWebAPI.DAL.dll
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\ProjetoWebAPI.DAL.pdb
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\EntityFramework.dll
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\EntityFramework.xml
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\obj\Debug\ProjetoWebAPI.DAL.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\obj\Debug\ProjetoWebAPI.DAL.dll
+c:\users\arthur\documents\visual studio 2015\Projects\ProjetoWebAPI\ProjetoWebAPI.DAL\obj\Debug\ProjetoWebAPI.DAL.pdb
